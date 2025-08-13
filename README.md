@@ -1,40 +1,41 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy Cesar Arce G. 👋
 
-Soy un/a apasionado/a desarrollador/a de software con experiencia en creación de aplicaciones robustas, análisis de datos e inteligencia artificial. Me encanta resolver problemas complejos y aprender nuevas tecnologías para seguir mejorando cada día.
+Soy un apasionado desarrollador con experiencia en desarrollo web, análisis de datos e inteligencia artificial. Me gusta resolver problemas complejos y aprender constantemente para crear soluciones eficientes y modernas. Además, tengo un gran interés en la física y la simulación de modelos físicos, lo que complementa mi enfoque analítico y mi pasión por la tecnología.
 
 ---
 
 ## 🔭 Actualmente
 
-- Desarrollando soluciones basadas en IA y machine learning para optimizar procesos empresariales.  
-- Explorando nuevas técnicas de análisis de datos y visualización con Python y R.  
-- Mejorando habilidades en desarrollo web full-stack con React y Node.js.
+- Trabajando en proyectos que integran inteligencia artificial y machine learning para optimizar procesos.  
+- Profundizando en análisis de datos y visualización con Python y herramientas asociadas.  
+- Mejorando habilidades en desarrollo web full-stack y en frameworks modernos.  
+- Explorando simulaciones y modelado de fenómenos físicos para aplicaciones científicas y educativas.
 
 ---
 
 ## 💡 Habilidades
 
-- **Lenguajes:** Python, JavaScript, C#, Java  
-- **Frameworks:** React, Angular, .NET Core, Django  
-- **Bases de datos:** SQL Server, MongoDB, PostgreSQL  
-- **Herramientas:** Git, Docker, AWS, Azure  
-- **Intereses:** Inteligencia Artificial, Ciencia de Datos, Automatización, DevOps
+- **Lenguajes:** Python, C#, JavaScript  
+- **Frameworks:** .NET Core, React, Angular  
+- **Bases de datos:** SQL Server, MongoDB  
+- **Herramientas:** Git, Docker, Azure  
+- **Intereses:** Inteligencia Artificial, Ciencia de Datos, Automatización, Desarrollo Web, Física y Simulación de Modelos Físicos
 
 ---
 
 ## 📫 Cómo contactarme
 
-- 📧 email@tuemail.com  
-- LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)  
-- GitHub: [github.com/tu-usuario](https://github.com/tu-usuario)
+- 📧 cesar.arceg.2005@gmail.com  
+- GitHub: [github.com/Argom23](https://github.com/Argom23)
 
 ---
 
 ## 🌱 Actualmente aprendiendo
 
-- Técnicas avanzadas de deep learning  
+- Técnicas avanzadas de machine learning  
 - Arquitecturas de microservicios  
-- Seguridad informática
+- Seguridad informática  
+- Nuevas metodologías para simulación y modelado físico
 
 ---
 
