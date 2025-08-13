@@ -1,4 +1,4 @@
-# Hola, soy Cesar Arce G. 👋
+# Hola :D
 
 Soy un apasionado desarrollador con experiencia en desarrollo web, análisis de datos e inteligencia artificial. Me gusta resolver problemas complejos y aprender constantemente para crear soluciones eficientes y modernas. Además, tengo un gran interés en la física y la simulación de modelos físicos, lo que complementa mi enfoque analítico y mi pasión por la tecnología.
 
